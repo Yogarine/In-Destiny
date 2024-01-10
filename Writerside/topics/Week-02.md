@@ -1,4 +1,4 @@
-# Week 02: Jan 9 - Jan 16 
+# Week 2: Jan 9 - Jan 16 
 
 - [Rotators](https://x.com/DestinyTheGame/status/1744766021792096291):
 
@@ -68,6 +68,14 @@
     > More changes are coming to the Crucible. If you want to help shape the future of PvP, the best way to start is by
     > participating in Crucible Labs and giving feedback below on what you enjoy, and what you don’t.
 
+- [Momentum Control will return to the rotator on January 30.][8]
+
+- [Correct rewards for Solo Flawless and Master Warlord's Ruin Triumphs are expected to go out tomorrow.][9]
+  > We have implemented a fix to unlock rewards for those affected by the issue that caused the Triumphs for the solo
+  > flawless and Master difficulty completions of Warlord's Ruin to grant the incorrect rewards.
+  > 
+  > We are expecting rewards to go out to affected players tomorrow.
+
 [1]: https://www.bungie.net/7/en/News/article/destiny2_update_7305 "Destiny 2 Update 7.3.0.5"
 [2]: https://x.com/Destiny2Team/status/1744530391090839662 "Checkmate Changes in Update 7.3.0.5"
 [3]: https://www.reddit.com/r/DestinyTheGame/comments/1922633/checkmate_changes_in_update_7305/kgzovb4/?context=99
@@ -75,3 +83,5 @@
 [5]: https://www.reddit.com/r/DestinyTheGame/comments/1922633/checkmate_changes_in_update_7305/kgzy26i/?context=99
 [6]: https://www.reddit.com/r/DestinyTheGame/comments/1922633/checkmate_changes_in_update_7305/kh1up6s/?context=99
 [7]: https://x.com/Destiny2Team/status/1744843045785514374 "Destiny 2 Team's intentions for Checkmate tuning"
+[8]: https://x.com/Destiny2Team/status/1744848639858778201 "Momentum Control will return to the rotator on January 30."
+[9]: https://x.com/BungieHelp/status/1744858230764060692 "Bungie has implemented a fix for incorrect Triumph rewards"
