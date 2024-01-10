@@ -1,80 +1,133 @@
-# Week 2: Jan 9 - Jan 16 
+# Week 2: Jan 9 - Jan 16
 
-- [Rotators](https://x.com/DestinyTheGame/status/1744766021792096291):
+{id="week-2"}
 
-  💠 PsiOps Battleground: Cosmodrome<br/>
-  🔫 Warden's Law (Adept)<br/>
-  🥇 Increased Trials reputation<br/>
-  💀 Root of Nightmares<br/>
-  ⚙️ Ghosts of the Deep<br/>
-  🟡 Operation: Seraph's Shield
+> This week's rotators:<br/>
+> 💠 PsiOps Battleground: Cosmodrome<br/>
+> 🔫 Warden's Law (Adept)<br/>
+> 🥇 Increased Trials reputation<br/>
+> 💀 Root of Nightmares<br/>
+> ⚙️ Ghosts of the Deep<br/>
+> 🟡 Operation: Seraph's Shield
+>
+> [Destiny 2](https://x.com/DestinyTheGame/status/1744766021792096291)
 
 ## Tuesday, January 9
 
-- [Destiny 2 Update 7.3.0.5][1]
+### Destiny 2 Update 7.3.0.5
 
-- [Checkmate Changes in Update 7.3.0.5][2]:
-  > Based on player feedback, we’re making some changes to Checkmate in tomorrow’s update. Due to the amount of tuning,
-  > Checkmate will be moved back to Labs.
-  >
-  > Next week will feature 3v3 Clash which has been modified to reflect a fan favorite mode from the original Destiny,
-  > Skirmish.
-  >
-  > We'll also be adjusting all Primary weapons to join Hand Cannons in having the same optimal Time-to-Kill (TTK) as
-  > they do in the base sandbox. In modes like Clash and Control, you will now start the game with two kills worth of
-  > special ammo (ex. 2 shots for shotguns).
-  >
-  > We’re increasing the amount of special ammo credit you get for assists and deaths, so you will get special ammo
-  > pulls more frequently, but are reducing the amount of special ammo you get from approximately three kills worth to
-  > two kills, to reduce snowballing.
-  >
-  > We want the reduced uptime of abilities in the PvP sandbox, but the current level of ability cooldown tuning made
-  > some abilities feel impractical to use. Ability cooldown penalties are being reduced from 30% to 15% and melee
-  > damage is being increased to allow two melees to kill.
-  >
-  > We will run one more Checkmate Trials Lab later this season (on February 9) with the new tuning, but Checkmate is
-  > not currently planned to be in the Control node again.
-  >
-  > We will have the full details on everything that is changing with weapon archetype tuning and other game mode rules
-  > in the patch notes tomorrow.
-  >
-  > We'll continue to review feedback as you play so please try out this new iteration and tell us how it feels.
-  
-  - Clarifications by Mercules:
-    - > You only start the game with special, all future special must be earned. Respawning does not give you additional
-      > ammo. [3]
-    - > You retain \[ammo after death\]. [4]
-    - >> If you had ammo and died, as long as you didn’t get revived, it carried to the next round.
-      >
-      > \[This is\] a bug, should be fixed by next trials lab \[February 9\] [5]
-    - > Special weapon kills don’t grant progress towards additional special ammo. [6]
-  
-  - [Destiny 2 Team later clarified their intentions for the current round of Checkmate tuning][7]:
-    > For anyone worried that these changes to Checkmate will permanently change a fun mode you enjoy, we wanted to
-    > clarify our intentions for the current round of Checkmate tuning:
-    > 
-    > While it is not our intention to make the original Checkmate into the core PvP experience, we are experimenting
-    > with the current iteration of Checkmate to gather data, lessons, and feedback we can use to eventually tune the
-    > base PvP sandbox.
-    >
-    > Things like primary weapon balance, special ammo economy, and ability uptime are easier to alter in a single
-    > modifier, which gives us freedom to iterate quickly. The goal of all these changes is to make a more skilled, more
-    > deliberate sandbox that retains the Destiny magic.
-    > 
-    > Later in the season, once we have tuned the base PvP sandbox, we will continue developing Checkmate as a
-    > standalone modifier. We plan to lean further into its identity as a more tactical, gunplay focused mode going back
-    > to no starting special and higher reduction of abilities.
-    > 
-    > More changes are coming to the Crucible. If you want to help shape the future of PvP, the best way to start is by
-    > participating in Crucible Labs and giving feedback below on what you enjoy, and what you don’t.
+The one about Checkmate tuning and removing [Togetherness](Activity-Modifiers.md#togetherness).
 
-- [Momentum Control will return to the rotator on January 30.][8]
+> _Patch notes for Destiny 2 Update 7.3.0.5 are now available:
+> [https://bungie.net/7/en/News/article/destiny2_update_7305](https://bungie.net/7/en/News/article/destiny2_update_7305)_
+>
+> -[Bungie Help](https://x.com/BungieHelp/status/1744772247406153763)
 
-- [Correct rewards for Solo Flawless and Master Warlord's Ruin Triumphs are expected to go out tomorrow.][9]
-  > We have implemented a fix to unlock rewards for those affected by the issue that caused the Triumphs for the solo
-  > flawless and Master difficulty completions of Warlord's Ruin to grant the incorrect rewards.
-  > 
-  > We are expecting rewards to go out to affected players tomorrow.
+### Checkmate Changes in Update 7.3.0.5
+
+{id="checkmate-changes-in-update-7.3.0.5"}
+
+> _"Based on player feedback, we’re making some changes to Checkmate in tomorrow’s update. Due to the amount of tuning,
+> Checkmate will be moved back to Labs._
+>
+> _Next week will feature 3v3 Clash which has been modified to reflect a fan favorite mode from the original Destiny,
+> Skirmish._
+>
+> _We'll also be adjusting all Primary weapons to join Hand Cannons in having the same optimal Time-to-Kill (TTK) as
+> they do in the base sandbox. In modes like Clash and Control, you will now start the game with two kills worth of
+> special ammo (ex. 2 shots for shotguns)._
+>
+> _We’re increasing the amount of special ammo credit you get for assists and deaths, so you will get special ammo
+> pulls more frequently, but are reducing the amount of special ammo you get from approximately three kills worth to
+> two kills, to reduce snowballing._
+>
+> _We want the reduced uptime of abilities in the PvP sandbox, but the current level of ability cooldown tuning made
+> some abilities feel impractical to use. Ability cooldown penalties are being reduced from 30% to 15% and melee
+> damage is being increased to allow two melees to kill._
+>
+> _We will run one more Checkmate Trials Lab later this season (on February 9) with the new tuning, but Checkmate is
+> not currently planned to be in the Control node again._
+>
+> _We will have the full details on everything that is changing with weapon archetype tuning and other game mode rules
+> in the patch notes tomorrow._
+>
+> _We'll continue to review feedback as you play so please try out this new iteration and tell us how it feels."_
+>
+> -[Destiny 2 Team](https://x.com/Destiny2Team/status/1744530391090839662)
+
+{style="quote"}
+
+#### Clarifications:
+
+- > _"You only start the game with special, all future special must be earned. Respawning does not give you additional
+  > ammo."_
+  >
+  > -[Mercules][3]
+
+  {style="quote" id="checkmate-special-ammo-economy-start"}
+
+- > _"You retain \[ammo after death\]."_
+  >
+  > -[Mercules][4]
+
+  {style="quote" id="checkmate-ammo-after-death"}
+
+- > > _"If you had ammo and died, as long as you didn’t get revived, it carried to the next round."_
+  >
+  > {style="warning"}
+  >
+  > _"\[This is\] a bug, should be fixed by next trials lab \[February 9\]"_
+  >
+  > -[Mercules][5]
+
+  {style="note" id="checkmate-ammo-carry-bug-fix-date"}
+
+- > _"Special weapon kills don’t grant progress towards additional special ammo."_
+  >
+  > -[Mercules][6]
+
+  {style="quote" id="checkmate-special-ammo-economy-primary-kills"}
+
+- > _"For anyone worried that these changes to Checkmate will permanently change a fun mode you enjoy, we wanted to
+  > clarify our intentions for the current round of Checkmate tuning:_
+  >
+  > _While it is not our intention to make the original Checkmate into the core PvP experience, we are experimenting
+  with
+  > the current iteration of Checkmate to gather data, lessons, and feedback we can use to eventually tune the base PvP
+  > sandbox._
+  >
+  > _Things like primary weapon balance, special ammo economy, and ability uptime are easier to alter in a single
+  > modifier, which gives us freedom to iterate quickly. The goal of all these changes is to make a more skilled, more
+  > deliberate sandbox that retains the Destiny magic._
+  >
+  > _Later in the season, once we have tuned the base PvP sandbox, we will continue developing Checkmate as a standalone
+  > modifier. We plan to lean further into its identity as a more tactical, gunplay focused mode going back to no
+  > starting special and higher reduction of abilities._
+  >
+  > _More changes are coming to the Crucible. If you want to help shape the future of PvP, the best way to start is by
+  > participating in Crucible Labs and giving feedback below on what you enjoy, and what you don’t."_
+  >
+  > -[Destiny 2 Team][7]
+
+  {style="quote" id="checkmate-changes-clarifications"}
+
+{type="none"}
+
+### Momentum Control
+
+> _"Momentum Control will return to the rotator on January 30."_
+>
+> -[Destiny 2 Team][8]
+
+### Solo Flawless and Master Warlord's Ruin rewards
+
+> _"We have implemented a fix to unlock rewards for those affected by the issue that caused the Triumphs for the solo
+> flawless and Master difficulty completions of Warlord's Ruin to grant the incorrect rewards._
+>
+> _We are expecting rewards to go out to affected players tomorrow."_
+>
+> -[Bungie Help][9]
+
 
 [1]: https://www.bungie.net/7/en/News/article/destiny2_update_7305 "Destiny 2 Update 7.3.0.5"
 [2]: https://x.com/Destiny2Team/status/1744530391090839662 "Checkmate Changes in Update 7.3.0.5"

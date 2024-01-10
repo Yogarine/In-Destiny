@@ -19,7 +19,7 @@
   > We've heard your concerns about the Togetherness modifier in The Coil. In Tuesday's update, we will be removing
   > Togetherness from the modifier rotation for the activity, so players will no longer see it as an option going
   > forward.
-
+  {style="quote"}
 
 [1]: https://x.com/DestinyTheGame/status/1742229317659111727 "Rotators"
 [2]: https://x.com/DestinyTheGame/status/1742259513565020344
