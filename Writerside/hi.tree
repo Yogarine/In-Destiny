@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Help Instance" start-page="2024-In-Destiny.topic">
+<instance-profile id="hi" name="Help Instance" start-page="Week-02.md">
     <toc-element toc-title="2024 In Destiny">
         <toc-element topic="Week-02.md"/>
         <toc-element topic="Week-01.md"/>
     </toc-element>
-    <toc-element topic="Activity-Modifiers.md"/>
+    <toc-element topic="Activity-Modifiers.topic"/>
     <toc-element topic="PvP.md">
         <toc-element topic="Checkmate.md"/>
     </toc-element>
-    <toc-element topic="Activity-Modifiers-old.topic"/>
 </instance-profile>

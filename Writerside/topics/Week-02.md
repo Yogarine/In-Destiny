@@ -16,7 +16,7 @@
 
 ### Destiny 2 Update 7.3.0.5
 
-The one about Checkmate tuning and removing [Togetherness](Activity-Modifiers.md#togetherness).
+The one about Checkmate tuning and removing [Togetherness](Activity-Modifiers.topic#togetherness).
 
 > _Patch notes for Destiny 2 Update 7.3.0.5 are now available:
 > [https://bungie.net/7/en/News/article/destiny2_update_7305](https://bungie.net/7/en/News/article/destiny2_update_7305)_
