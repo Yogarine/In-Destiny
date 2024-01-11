@@ -119,6 +119,12 @@ The one about Checkmate tuning and removing [Togetherness](Activity-Modifiers.to
 >
 > -[Destiny 2 Team][8]
 
+### Relic
+
+> _"Relic will be back in labs later this season"_
+>
+> -[Mercules](https://www.reddit.com/r/CrucibleGuidebook/comments/1922pxl/comment/kgzwv33/?context=3)
+
 ### Solo Flawless and Master Warlord's Ruin rewards
 
 > _"We have implemented a fix to unlock rewards for those affected by the issue that caused the Triumphs for the solo
@@ -127,6 +133,14 @@ The one about Checkmate tuning and removing [Togetherness](Activity-Modifiers.to
 > _We are expecting rewards to go out to affected players tomorrow."_
 >
 > -[Bungie Help][9]
+
+## Wednesday, January 10
+
+### Control and Iron Banner use the same matchmaking.
+
+> _"They both have the same MM, just a difference in game modes and the way people play them"_
+>
+> -[Mercules](https://www.reddit.com/r/CrucibleGuidebook/comments/192yb4h/comment/kh5p7dc/?context=3)
 
 
 [1]: https://www.bungie.net/7/en/News/article/destiny2_update_7305 "Destiny 2 Update 7.3.0.5"
